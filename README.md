@@ -7,7 +7,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/chrisdegutis/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/chrisdegutis/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/chrisdegutis/configure-ad)
+  - [Active Directory Domain Deployment in Azure](https://github.com/chrisdegutis/configure-ad)
+  - Active Directory User Management & Security Policies
+  - Group Policy Administration Lab
+  - Azure Networking Lab
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chrisdegutis/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
