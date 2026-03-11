@@ -10,7 +10,7 @@
   - [Active Directory Domain Deployment in Azure](https://github.com/chrisdegutis/configure-ad)
   - [Active Directory User Management & Security Policies](https://github.com/chrisdegutis/ad-user-management-security)
   - [Group Policy Administration Lab](https://github.com/chrisdegutis/group-policy-adminstration)
-  - Azure Networking Lab
+  - [Azure Virtual Networking Fundamentals](https://github.com/chrisdegutis/azure-virutal-networking)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chrisdegutis/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
