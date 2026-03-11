@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/chrisdegutis/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Active Directory Domain Deployment in Azure](https://github.com/chrisdegutis/configure-ad)
-  - Active Directory User Management & Security Policies
+  - [Active Directory User Management & Security Policies](https://github.com/chrisdegutis/ad-user-management-security)
   - Group Policy Administration Lab
   - Azure Networking Lab
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chrisdegutis/azure-network-protocols)
