@@ -12,6 +12,7 @@
   - [Group Policy Administration Lab](https://github.com/chrisdegutis/group-policy-adminstration)
   - [Azure Virtual Networking Fundamentals](https://github.com/chrisdegutis/azure-virutal-networking)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chrisdegutis/azure-network-protocols)
+  - Windows Event Logging and Security Monitoring
 
 <h2>🤳Connect with me:</h2>
 
