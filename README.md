@@ -10,9 +10,8 @@
   - [Active Directory Domain Deployment in Azure](https://github.com/chrisdegutis/configure-ad)
   - [Active Directory User Management & Security Policies](https://github.com/chrisdegutis/ad-user-management-security)
   - [Group Policy Administration Lab](https://github.com/chrisdegutis/group-policy-adminstration)
-  - [Azure Virtual Networking Fundamentals](https://github.com/chrisdegutis/azure-virutal-networking)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chrisdegutis/azure-network-protocols)
-  - Windows Event Logging and Security Monitoring
+  - [Windows Event Logging and Security Monitoring](https://github.com/chrisdegutis/event-logging-security-monitoring)
 
 <h2>🤳Connect with me:</h2>
 
