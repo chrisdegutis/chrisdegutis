@@ -1,11 +1,11 @@
 <h1>Hi, I'm Chris, an <a href="https://www.linkedin.com/in/christopherdegutis/">IT Professional</a>.</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-<!--
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/chrisdegutis/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/chrisdegutis/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/chrisdegutis/ticket-lifecycle) -->
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/chrisdegutis/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chrisdegutis/azure-network-protocols)
   - [Active Directory Domain Deployment in Azure](https://github.com/chrisdegutis/configure-ad)
