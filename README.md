@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/chrisdegutis/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/chrisdegutis/azure-network-protocols)
-  - [Active Directory Domain Deployment in Azure](https://github.com/chrisdegutis/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/chrisdegutis/configure-ad)
   - [Active Directory User Management & Security Policies](https://github.com/chrisdegutis/ad-user-management-security)
   - [Group Policy Administration Lab](https://github.com/chrisdegutis/group-policy-adminstration)
   - [Windows Event Logging and Security Monitoring](https://github.com/chrisdegutis/event-logging-security-monitoring)
